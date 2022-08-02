@@ -6,7 +6,7 @@ function obtenerMayor(x, y) {
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
 
-  String = string
+  String 
 }
 
 function mayoriaDeEdad(edad) {
